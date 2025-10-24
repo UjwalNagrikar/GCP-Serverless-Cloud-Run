@@ -236,5 +236,3 @@ gcloud run services delete my-cloudrun-app --region asia-south1
 
 **Author:** Ujwal Nagrikar 
 **Last Updated:** October 2025
-
-![Cloud Run Screenshot](images/cloudrun.png)
