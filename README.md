@@ -232,11 +232,7 @@ gcloud run services delete my-cloudrun-app --region asia-south1
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Docker Documentation](https://docs.docker.com/)
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 **Author:** Ujwal Nagrikar 
 **Last Updated:** October 2025
